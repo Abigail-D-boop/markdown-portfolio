@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+##My Favourite Things
+
+- animals
+   - :cat:
+   - :dog:
+   - :tiger:
+- plants
+   - :herb:
+   - :palm_tree:
+   - :rose:
